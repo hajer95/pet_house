@@ -1,0 +1,66 @@
+#div-content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+#cards-div-container {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  justify-content: flex-start;
+  margin-top: 50px;
+}
+.pet-image-size {
+  max-width: 300px;
+  max-height: 210px;
+}
+.pet-card {
+  background-color: #fff;
+  margin-right: 18px;
+  margin-top: 18px;
+}
+.div-details {
+  width: 100%;
+  height: 100%;
+}
+.div-details-sub {
+  width: 90%;
+  height: 90%;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pet-info-p {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+.title {
+  margin-right: 20px;
+  font-weight: bold;
+}
+.see-more-price {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+.pet-price {
+  color: #fb7a3e;
+  font-weight: bolder;
+}
+.pet-info-p-value {
+  font-size: 15px;
+}

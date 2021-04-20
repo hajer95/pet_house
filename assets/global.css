@@ -1,0 +1,16 @@
+.input {
+  width: 280px;
+  height: 36px;
+  border: solid;
+  border-color: rgba(112, 112, 112, 0.2);
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: rgb(207, 207, 207);
+  font-size: 18px;
+}
+
+.fit-div {
+  height: 100%;
+  width: 100%;
+}
